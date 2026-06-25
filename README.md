@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pamarthi Vardhan 👋<br><br>B.Tech student passionate about Data Analytics, Business Intelligence, and Data Visualization. Skilled in Excel, SQL, Power BI, and Google Looker Studio. I enjoy building dashboards and transforming data into actionable insights.
+Hi, I'm Pamarthi Vardhan 👋<br><br>B.Tech student passionate about Data Analytics, Business Intelligence, and Data Visualization. Skilled in Excel, SQL, Python, Power BI, and Google Looker Studio. I enjoy building dashboards and transforming data into actionable insights.
 
 
 ## 🌐 Socials:
